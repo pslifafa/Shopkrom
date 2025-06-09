@@ -1,2 +1,3 @@
-# Shopkrom
-Yaha ek online store hoga 
+# ShopKrom Final Version
+
+Complete eCommerce store with PayPal, admin panel, product management, and order tracking.

@@ -1,0 +1,1 @@
+// Auth utilities (JWT verify, protect routes)
